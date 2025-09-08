@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Wood_1",
+    "price": 180,
+    "id": 2,
+    "icon": "/image/OXFORD-ORCHID-MP-1-1-scaled-e1625635632665.jpg",
+    "description": "80*60"
+  },
+  {
+    "title": "HARITAGE-WOOD",
+    "price": 300,
+    "id": 2,
+    "icon": "/HARITAGE-WOOD-MP-1-1-scaled-e1625549405338.jpg",
+    "description": "80*60"
+  },
+  {
+    "title": "BRILLO-GREY",
+    "price": 450,
+    "id": 2,
+    "icon": "/BRILLO-GREY-DK-3-1-scaled-e1623214158846.jpg",
+    "description": "80*60"
+  },
+  {
+    "title": "ALOHA-BROWN",
+    "price": 500,
+    "id": 2,
+    "icon": "/ALOHA-BROWN-P1-scaled-e1622697310527.jpg",
+    "description": "80*60"
+  }
+]

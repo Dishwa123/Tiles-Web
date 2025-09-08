@@ -1,0 +1,61 @@
+.contact-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Adjusted to min-height for smaller content */
+    background-image: url('C:/Users/Lenovo/web/public/VICTORIA-BROWN.jpg'); /* Adjusted path to background image */
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(240, 240, 240, 0.8); /* Fallback background color */
+}
+
+.contact-form {
+    background-color: #ffffff; /* Background color for the form */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black; /* Text color for the form */
+    width: 60%; /* Adjusted width for better visibility */
+    max-width: 600px; /* Added max-width for responsiveness */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='tel'],
+textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button[type='submit'] {
+    width: 100%;
+    padding: 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+button[type='submit']:hover {
+    background-color: #0056b3;
+}

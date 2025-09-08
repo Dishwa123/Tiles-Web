@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Stone_1",
+    "price": 150,
+    "id": 1,
+    "caption": "icon",
+    "icon": "/AGATHA-LIGHT_2-DL-1-1-e1628162319371.jpg",
+    "description": "80*60"
+  },
+  {
+    "title": "IMPERIAL_BRECCIA_R4",
+    "price": 250,
+    "id": 1,
+    "caption": "icon",
+    "icon": "/IMPERIAL_BRECCIA_R4.jpg",
+    "description": "80*60"
+  },
+  {
+    "title": "MERQURY_BROWN_R1",
+    "price": 300,
+    "id": 1,
+    "caption": "icon",
+    "icon": "/MERQURY_BROWN_R1.jpg",
+    "description": "80*60"
+  },
+  {
+    "title": "CASTLE-MOSE",
+    "price": 500,
+    "id": 1,
+    "caption": "icon",
+    "icon": "/CASTLE-MOSE-MP1-scaled.jpg",
+    "description": "80*60"
+  }
+]

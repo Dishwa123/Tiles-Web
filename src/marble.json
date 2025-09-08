@@ -1,0 +1,66 @@
+[
+  {
+    "title": "ANTISKY ONYX",
+    "price": 355,
+    "id": 1,
+    "caption": "icon",
+    "icon": "/ANTISKY_ONYX_R1.jpg",
+    "description": "80 * 160"
+  },
+  {
+    "title": "ARABESCATO",
+    "price": 400,
+    "id": 2,
+    "caption": "icon",
+    "icon": "/ARABESCATO-1-scaled.jpg",
+    "description": "80 * 160"
+  },
+  {
+    "title": "ALESSIA NATURAL",
+    "price": 700,
+    "id": 3,
+    "caption": "icon",
+    "icon": "/ALESSIA-NATURAL_P1-1-scaled-e1645875818134.jpg",
+    "description": "80 * 160"
+  },
+  {
+    "title": "GOLDEN BRECCIA",
+    "price": 800,
+    "id": 2,
+    "caption": "icon",
+    "icon": "/GOLDEN_BRECCIA_R1.jpg",
+    "description": "80 * 160"
+  },
+  {
+    "title": "KERA-WHITE",
+    "price": 300,
+    "id": 3,
+    "caption": "icon",
+    "icon": "/KERA-WHITE-AP-C-1-e1627816506609.jpg",
+    "description": "80 * 160"
+  },
+  {
+    "title": "VIBES-WHITE",
+    "price": 500,
+    "id": 3,
+    "caption": "icon",
+    "icon": "/VIBES-WHITE-P5-1-e1641125075492.jpg",
+    "description": "80 * 160"
+  },
+  {
+    "title": "GRAINY-GRAY",
+    "price": 400,
+    "id": 3,
+    "caption": "icon",
+    "icon": "/GRAINY-GRAY-HK-1-copy-1-e1627884837462.jpg",
+    "description": "80 * 160"
+  },
+  {
+    "title": "BARISTO-BLUE",
+    "price": 1000,
+    "id": 3,
+    "caption": "icon",
+    "icon": "/BARISTO-BLUE-P2-1-e1641020834996.jpg",
+    "description": "80 * 160"
+  }
+]
